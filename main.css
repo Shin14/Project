@@ -1,7 +1,10 @@
 body{
 
-	background-image: url('media/CarlGuitar.jpg')
+	background-image: url('media/CarlGuitar.jpg');
+	background-size: cover;
 }
+
 h2{
-	color: white;
+	
+color: red;
 }
