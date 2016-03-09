@@ -1,6 +1,21 @@
-body{
+/*.navbar {
 
+	min-width: 100%
+}*/
+
+#egg {
+	width:100%;
+	height:200px;
 	background-image: url('media/CarlGuitar.jpg');
+
+}
+
+
+#banner {
+
+	height: 180px;
+	width: 100%;
+	background-image: url('media/moshheader.jpg');
 	background-size: cover;
 }
 
