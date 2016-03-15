@@ -1,6 +1,6 @@
 
 
-body{background: url(media/CarlGuitar.jpg) no-repeat;
+body{background: url(Media/CarlGuitar.jpg) no-repeat;
 background-size: 100%;
 padding: 0px 40px;
 
@@ -9,7 +9,7 @@ padding: 0px 40px;
 .btn-success{
 
 background-color: black; 
-opacity:0.4;
+/*opacity:0.4;*/
 border-color: black;
 
 
