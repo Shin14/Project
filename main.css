@@ -2,6 +2,7 @@
 
 body{background: url(media/CarlGuitar.jpg) no-repeat;
 background-size: 100%;
+padding: 0px 40px;
 
 }
 
@@ -18,13 +19,13 @@ color:white;
 h1{
 	color: white;
 	text-align: center;
-	font-family: "Courier New"
+	font-family: "Courier New";
 }
 h2{
 	color: white;
 	text-align: center;
 	text-decoration: underline;
-	font-family: "Courier New"
+	font-family: "Courier New";
 
 }
 h3{
@@ -32,7 +33,7 @@ h3{
 	text-indent: 50px;
 	 text-align: justify;
 	 font-size: 20px;
-	 font-family: "Courier New"
+	 font-family: "Courier New";
 
 
 }
@@ -40,6 +41,7 @@ h4{color: white;
 	text-indent:50px;
 	 text-align: justify;
 	 font-size: 20px;
-	 font-family: "Courier New"
+	 font-family: "Courier New";
+	 font-style: italic;
 
 }
