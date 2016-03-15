@@ -8,7 +8,18 @@ padding: 0px 40px;
 
 .btn-success{
 
+background-color: black; 
+opacity:0.4;
+border-color: black;
 
+
+}
+
+.mailing{position: fixed;
+  top: 70%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -100px;
 }
 
 .mailtext{
@@ -16,14 +27,13 @@ color:white;
 
 }
 
-<<<<<<< HEAD
-=======
+
 hr{
 
 	margin: 200px 200px 100px 200px;
 
 }
->>>>>>> origin/master
+
 h1{
 	color: white;
 	text-align: center;
@@ -61,7 +71,12 @@ body {
 
 ul.share-buttons{
   list-style: none;
-  padding: 5;
+  padding: 0;
+  position: fixed;
+  top: 90%;
+  left: 40%;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 ul.share-buttons li{
